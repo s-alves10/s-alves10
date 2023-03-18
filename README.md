@@ -184,9 +184,9 @@
 <br>
 
 <div style="display: flex; gap: 16px; align-items: flex-start; margin: auto;">
-<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sangar1028&count_private=true&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangar1028&layout=compact" />
 
 </div>
 <br>
